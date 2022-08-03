@@ -256,7 +256,10 @@ body.dark-theme {
   border-radius: .5rem;
   transition: .3s;
   box-shadow: 0 8px 24px hsla(var(--hue), var(--sat), var(--lig), .25);
+  
+
 }
+
 
 .button i {
   font-size: 1.25rem;
